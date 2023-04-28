@@ -1,7 +1,10 @@
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
-* text=auto
+#  text=auto
+
+# For uploading of Blazor published files as-is (no modifications).
+* binary
 
 ###############################################################################
 # Set default behavior for command prompt diff.
